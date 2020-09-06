@@ -1,4 +1,4 @@
-package com.rostradamus.fsarcheureka;
+package com.fitsight.fsarcheureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

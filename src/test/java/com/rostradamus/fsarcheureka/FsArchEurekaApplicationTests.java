@@ -1,4 +1,4 @@
-package com.rostradamus.fsarcheureka;
+package com.fitsight.fsarcheureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

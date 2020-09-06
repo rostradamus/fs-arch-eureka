@@ -8,7 +8,7 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rostradamus</groupId>
+	<groupId>com.fitsight</groupId>
 	<artifactId>fs-arch-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>fs-arch-eureka</name>
